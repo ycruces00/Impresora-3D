@@ -21,10 +21,13 @@ Máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maqueta
 ### Software 
 
 ### Marcas
-- **Stratasys:** Es una de las compañías pioneras en la industria 3D, ha desarrollado su pequeña impresora para las masas y para pequeñas empresas. Se trata de la *Mojo*, una impresora de deposición de plástico ABS de reducidas dimensiones que imprime un volumen máximo de 12.7
-- **BQ:** Es una empresa enteramente española que fabrica y vende la Witbox 2 y la Witbox Go!, que son impresoras 3D recomendadas por *formizable*(es una pagina web especializada en impresión 3D) para uso domestico y educativo, por su	fiabilidad y presentaciones excelentes.
-- - **Makerbot:** Es la marca de impresoras 3D más popular , con el soporte de *Stratasys*. Dispone de varios modelos de impresoras.
+- **Stratasys:** Es una de las compañías pioneras en la industria 3D, ha desarrollado su pequeña impresora para las masas y para pequeñas empresas.
+
+- **BQ:** Es una empresa enteramente española que fabrica y vende la Witbox 2 y la Witbox Go!, que son impresoras 3D recomendadas por *formizable*(es una pagina web especializada en impresoras 3D) para uso domestico y educativo, por su	fiabilidad y presentaciones excelentes.
+
+- **Makerbot:** Es la marca de impresoras 3D más popular , con el soporte de *Stratasys*. Dispone de varios modelos de impresoras.
 Realiza grandes esfuerzos por extender su metodología de fabricación en el mundo educativo con su programa “Una impresora en cada escuela", de momento sólo en Estados Unidos.
+
 - **3D Systems:**
 - **Ultimaker:**
 - **XYZ Printing:**
